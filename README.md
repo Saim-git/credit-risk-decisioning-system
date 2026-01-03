@@ -31,6 +31,15 @@ The goal of this project is to:
 
 ---
 
+## Kaggle Notebook
+
+This project was executed in Kaggle due to dataset size constraints.
+
+🔗 Kaggle Notebook Link:
+https://www.kaggle.com/code/muheetalam22/credit-risk-default-prediction
+
+----
+
 ## 🧠 Key Design Principles
 
 This project follows **real-world analytics best practices**:
